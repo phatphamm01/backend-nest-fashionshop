@@ -1,0 +1,1779 @@
+[
+  {
+    "_id": "87552",
+    "name": "Pink Quilt Cardigan",
+    "brandId": "000187",
+    "color": "673092",
+    "imageCovers": [
+      "https://www.melijoe.com/images/256620/card_medium.jpg",
+      "https://www.melijoe.com/images/256639/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/256620/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/256639/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["674079", "313681", "312909"],
+    "variants": [
+      {
+        "price": 59,
+        "discountPrice": 59,
+        "sizeId": "671044",
+        "_id": "61a262fcc99331f79a190421"
+      },
+      {
+        "price": 59,
+        "discountPrice": 59,
+        "sizeId": "671043",
+        "_id": "61a262fcc99331f79a190422"
+      },
+      {
+        "price": 65,
+        "discountPrice": 65,
+        "sizeId": "671057",
+        "_id": "61a262fcc99331f79a190423"
+      },
+      {
+        "price": 65,
+        "discountPrice": 65,
+        "sizeId": "671010",
+        "_id": "61a262fcc99331f79a190424"
+      }
+    ],
+    "slug": "pink-quilt-cardigan",
+    "categoryPath": "/girl/clothing/cardigans;",
+    "price": 59,
+    "discountPrice": 59
+  },
+  {
+    "_id": "29631",
+    "name": "Brown Cheetah Sherpa Zip Sweater",
+    "brandId": "000205",
+    "color": "673081",
+    "imageCovers": [
+      "https://www.melijoe.com/images/223060/card_medium.jpg",
+      "https://www.melijoe.com/images/223061/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/223060/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/223061/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/223062/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["312909", "674079", "313723"],
+    "variants": [
+      {
+        "price": 126,
+        "discountPrice": 126,
+        "sizeId": "671057",
+        "_id": "61a262fcc99331f79a19040c"
+      },
+      {
+        "price": 126,
+        "discountPrice": 126,
+        "sizeId": "671022",
+        "_id": "61a262fcc99331f79a19040d"
+      },
+      {
+        "price": 126,
+        "discountPrice": 126,
+        "sizeId": "671010",
+        "_id": "61a262fcc99331f79a19040e"
+      },
+      {
+        "price": 126,
+        "discountPrice": 126,
+        "sizeId": "671005",
+        "_id": "61a262fcc99331f79a19040f"
+      },
+      {
+        "price": 126,
+        "discountPrice": 126,
+        "sizeId": "671078",
+        "_id": "61a262fcc99331f79a190410"
+      }
+    ],
+    "slug": "brown-cheetah-sherpa-zip-sweater",
+    "categoryPath": "/girl/clothing/cardigans;",
+    "price": 126,
+    "discountPrice": 126
+  },
+  {
+    "_id": "13147",
+    "name": "Dark Silver Star Puffer Jacket",
+    "brandId": "000216",
+    "color": "673101",
+    "imageCovers": [
+      "https://www.melijoe.com/images/264180/card_medium.jpg",
+      "https://www.melijoe.com/images/264179/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/264180/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/264179/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/264182/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["313797", "312885", "674080", "674079"],
+    "variants": [
+      {
+        "price": 172,
+        "discountPrice": 172,
+        "sizeId": "671012",
+        "_id": "61a262fcc99331f79a190456"
+      },
+      {
+        "price": 172,
+        "discountPrice": 172,
+        "sizeId": "671043",
+        "_id": "61a262fcc99331f79a190457"
+      },
+      {
+        "price": 179,
+        "discountPrice": 179,
+        "sizeId": "671057",
+        "_id": "61a262fcc99331f79a190458"
+      },
+      {
+        "price": 179,
+        "discountPrice": 179,
+        "sizeId": "671031",
+        "_id": "61a262fcc99331f79a190459"
+      },
+      {
+        "price": 179,
+        "discountPrice": 179,
+        "sizeId": "671022",
+        "_id": "61a262fcc99331f79a19045a"
+      },
+      {
+        "price": 179,
+        "discountPrice": 179,
+        "sizeId": "671999",
+        "_id": "61a262fcc99331f79a19045b"
+      },
+      {
+        "price": 179,
+        "discountPrice": 179,
+        "sizeId": "671010",
+        "_id": "61a262fcc99331f79a19045c"
+      }
+    ],
+    "slug": "dark-silver-star-puffer-jacket",
+    "categoryPath": "/girl/clothing/coats;",
+    "price": 172,
+    "discountPrice": 172
+  },
+  {
+    "_id": "95058",
+    "name": "White Colourblock Dalmation Spots Cardigan",
+    "brandId": "000200",
+    "color": "673097",
+    "imageCovers": [
+      "https://www.melijoe.com/images/247153/card_medium.jpg",
+      "https://www.melijoe.com/images/247199/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/247153/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/247199/image_gallery_large.jpg"
+    ],
+    "isFeatured": true,
+    "filters": ["674079", "313681", "312909", "313723"],
+    "variants": [
+      {
+        "price": 630,
+        "discountPrice": 630,
+        "sizeId": "671057",
+        "_id": "61a262fcc99331f79a1903fe"
+      },
+      {
+        "price": 635,
+        "discountPrice": 635,
+        "sizeId": "671010",
+        "_id": "61a262fcc99331f79a1903ff"
+      },
+      {
+        "price": 645,
+        "discountPrice": 645,
+        "sizeId": "671005",
+        "_id": "61a262fcc99331f79a190400"
+      }
+    ],
+    "slug": "white-colourblock-dalmation-spots-cardigan",
+    "categoryPath": "/girl/clothing/cardigans;",
+    "price": 630,
+    "discountPrice": 630
+  },
+  {
+    "_id": "23225",
+    "name": "Navy Cherry Detail Cardigan",
+    "brandId": "000115",
+    "color": "673082",
+    "imageCovers": [
+      "https://www.melijoe.com/images/247164/card_medium.jpg",
+      "https://www.melijoe.com/images/247165/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/247164/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/247165/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["674079", "313681", "312909"],
+    "variants": [
+      {
+        "price": 430,
+        "discountPrice": 430,
+        "sizeId": "671012",
+        "_id": "61a262fcc99331f79a19044c"
+      },
+      {
+        "price": 430,
+        "discountPrice": 430,
+        "sizeId": "671057",
+        "_id": "61a262fcc99331f79a19044d"
+      },
+      {
+        "price": 440,
+        "discountPrice": 440,
+        "sizeId": "671022",
+        "_id": "61a262fcc99331f79a19044e"
+      },
+      {
+        "price": 440,
+        "discountPrice": 440,
+        "sizeId": "671010",
+        "_id": "61a262fcc99331f79a19044f"
+      },
+      {
+        "price": 450,
+        "discountPrice": 450,
+        "sizeId": "671005",
+        "_id": "61a262fcc99331f79a190450"
+      },
+      {
+        "price": 450,
+        "discountPrice": 450,
+        "sizeId": "671078",
+        "_id": "61a262fcc99331f79a190451"
+      }
+    ],
+    "slug": "navy-cherry-detail-cardigan",
+    "categoryPath": "/girl/clothing/cardigans;",
+    "price": 430,
+    "discountPrice": 430
+  },
+  {
+    "_id": "49265",
+    "name": "Cherry Pompon Ergomaxx Backpack",
+    "brandId": "000150",
+    "color": "673092",
+    "imageCovers": [
+      "https://www.melijoe.com/images/247114/card_medium.jpg",
+      "https://www.melijoe.com/images/247116/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/247114/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/247116/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/247117/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/247118/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/247119/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["313850", "313826", "674079", "312884"],
+    "variants": [
+      {
+        "price": 234,
+        "discountPrice": 234,
+        "_id": "61a262fcc99331f79a190492"
+      }
+    ],
+    "slug": "cherry-pompon-ergomaxx-backpack",
+    "categoryPath": "/girl/accessories/bags;",
+    "price": 234,
+    "discountPrice": 234
+  },
+  {
+    "_id": "60870",
+    "name": "Pink Quilted Heart Hoodie",
+    "brandId": "000174",
+    "color": "673092",
+    "imageCovers": [
+      "https://www.melijoe.com/images/246918/card_medium.jpg",
+      "https://www.melijoe.com/images/246919/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/246918/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/246919/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["674079", "313754", "313855", "312902", "313723"],
+    "variants": [
+      {
+        "price": 126,
+        "discountPrice": 126,
+        "sizeId": "671012",
+        "_id": "61a262fcc99331f79a19042f"
+      },
+      {
+        "price": 126,
+        "discountPrice": 126,
+        "sizeId": "671057",
+        "_id": "61a262fcc99331f79a190430"
+      },
+      {
+        "price": 126,
+        "discountPrice": 126,
+        "sizeId": "671022",
+        "_id": "61a262fcc99331f79a190431"
+      },
+      {
+        "price": 126,
+        "discountPrice": 126,
+        "sizeId": "671010",
+        "_id": "61a262fcc99331f79a190432"
+      },
+      {
+        "price": 126,
+        "discountPrice": 126,
+        "sizeId": "671005",
+        "_id": "61a262fcc99331f79a190433"
+      }
+    ],
+    "slug": "pink-quilted-heart-hoodie",
+    "categoryPath": "/girl/clothing/cardigans;",
+    "price": 126,
+    "discountPrice": 126
+  },
+  {
+    "_id": "68305",
+    "name": "Black Kaya Lace Tex Boots",
+    "brandId": "000212",
+    "color": "673082",
+    "imageCovers": [
+      "https://www.melijoe.com/images/251339/card_medium.jpg",
+      "https://www.melijoe.com/images/251334/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/251339/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/251334/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/251340/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/251341/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["312870", "313807", "674079", "674080"],
+    "variants": [
+      {
+        "price": 122,
+        "discountPrice": 122,
+        "sizeId": "672004",
+        "_id": "61a262fcc99331f79a19046e"
+      },
+      {
+        "price": 122,
+        "discountPrice": 122,
+        "sizeId": "672014",
+        "_id": "61a262fcc99331f79a19046f"
+      },
+      {
+        "price": 122,
+        "discountPrice": 122,
+        "sizeId": "672058",
+        "_id": "61a262fcc99331f79a190470"
+      },
+      {
+        "price": 122,
+        "discountPrice": 122,
+        "sizeId": "672039",
+        "_id": "61a262fcc99331f79a190471"
+      },
+      {
+        "price": 122,
+        "discountPrice": 122,
+        "sizeId": "672055",
+        "_id": "61a262fcc99331f79a190472"
+      }
+    ],
+    "slug": "black-kaya-lace-tex-boots",
+    "categoryPath": "/girl/shoes/boots;",
+    "price": 122,
+    "discountPrice": 122
+  },
+  {
+    "_id": "15952",
+    "name": "Black Multicolor Sequin Cardigan",
+    "brandId": "000200",
+    "color": "673082",
+    "imageCovers": [
+      "https://www.melijoe.com/images/232078/card_medium.jpg",
+      "https://www.melijoe.com/images/232062/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/232078/image_gallery_large.jpg",
+      "hhttps://www.melijoe.com/images/232062/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["674079", "313681", "312909"],
+    "variants": [
+      {
+        "price": 130,
+        "discountPrice": 130,
+        "sizeId": "671012",
+        "_id": "61a262fcc99331f79a190425"
+      },
+      {
+        "price": 130,
+        "discountPrice": 130,
+        "sizeId": "671043",
+        "_id": "61a262fcc99331f79a190426"
+      },
+      {
+        "price": 150,
+        "discountPrice": 150,
+        "sizeId": "671022",
+        "_id": "61a262fcc99331f79a190427"
+      },
+      {
+        "price": 150,
+        "discountPrice": 150,
+        "sizeId": "671010",
+        "_id": "61a262fcc99331f79a190428"
+      },
+      {
+        "price": 150,
+        "discountPrice": 150,
+        "sizeId": "671005",
+        "_id": "61a262fcc99331f79a190429"
+      }
+    ],
+    "slug": "black-multicolor-sequin-cardigan",
+    "categoryPath": "/girl/clothing/cardigans;",
+    "price": 130,
+    "discountPrice": 130
+  },
+  {
+    "_id": "46509",
+    "name": "Navy Jacquard Cardigan",
+    "brandId": "000115",
+    "color": "673082",
+    "imageCovers": [
+      "https://www.melijoe.com/images/263902/card_medium.jpg",
+      "https://www.melijoe.com/images/263903/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/263902/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/263903/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["674079", "313681", "312909"],
+    "variants": [
+      {
+        "price": 260,
+        "discountPrice": 260,
+        "sizeId": "671012",
+        "_id": "61a262fcc99331f79a190448"
+      },
+      {
+        "price": 260,
+        "discountPrice": 260,
+        "sizeId": "671057",
+        "_id": "61a262fcc99331f79a190449"
+      },
+      {
+        "price": 265,
+        "discountPrice": 265,
+        "sizeId": "671022",
+        "_id": "61a262fcc99331f79a19044a"
+      },
+      {
+        "price": 265,
+        "discountPrice": 265,
+        "sizeId": "671010",
+        "_id": "61a262fcc99331f79a19044b"
+      }
+    ],
+    "slug": "navy-jacquard-cardigan",
+    "categoryPath": "/girl/clothing/cardigans;",
+    "price": 260,
+    "discountPrice": 260
+  },
+  {
+    "_id": "71218",
+    "name": "Navy Blue Bennie Zip Sweater",
+    "brandId": "000148",
+    "color": "673083",
+    "imageCovers": [
+      "https://www.melijoe.com/images/248949/card_medium.jpg",
+      "https://www.melijoe.com/images/248950/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/248949/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/248950/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/248951/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["674079", "313681", "312909"],
+    "variants": [
+      {
+        "price": 88,
+        "discountPrice": 88,
+        "sizeId": "671012",
+        "_id": "61a262fcc99331f79a19042a"
+      },
+      {
+        "price": 88,
+        "discountPrice": 88,
+        "sizeId": "671043",
+        "_id": "61a262fcc99331f79a19042b"
+      },
+      {
+        "price": 97,
+        "discountPrice": 97,
+        "sizeId": "671022",
+        "_id": "61a262fcc99331f79a19042c"
+      },
+      {
+        "price": 97,
+        "discountPrice": 97,
+        "sizeId": "671010",
+        "_id": "61a262fcc99331f79a19042d"
+      },
+      {
+        "price": 97,
+        "discountPrice": 97,
+        "sizeId": "671005",
+        "_id": "61a262fcc99331f79a19042e"
+      }
+    ],
+    "slug": "navy-blue-bennie-zip-sweater",
+    "categoryPath": "/girl/clothing/cardigans;",
+    "price": 88,
+    "discountPrice": 88
+  },
+  {
+    "_id": "99153",
+    "name": "Navy Cardigan",
+    "brandId": "000187",
+    "color": "673082",
+    "imageCovers": [
+      "https://www.melijoe.com/images/254650/card_medium.jpg",
+      "https://www.melijoe.com/images/254653/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/254650/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/254653/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/254652/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["674079", "313681", "312909"],
+    "variants": [
+      {
+        "price": 59,
+        "discountPrice": 59,
+        "sizeId": "671044",
+        "_id": "61a262fcc99331f79a190411"
+      },
+      {
+        "price": 59,
+        "discountPrice": 59,
+        "sizeId": "671012",
+        "_id": "61a262fcc99331f79a190412"
+      },
+      {
+        "price": 65,
+        "discountPrice": 65,
+        "sizeId": "671043",
+        "_id": "61a262fcc99331f79a190413"
+      },
+      {
+        "price": 65,
+        "discountPrice": 65,
+        "sizeId": "671057",
+        "_id": "61a262fcc99331f79a190414"
+      },
+      {
+        "price": 65,
+        "discountPrice": 65,
+        "sizeId": "671010",
+        "_id": "61a262fcc99331f79a190415"
+      }
+    ],
+    "slug": "navy-cardigan",
+    "categoryPath": "/girl/clothing/cardigans;",
+    "price": 59,
+    "discountPrice": 59
+  },
+  {
+    "_id": "93252",
+    "name": "Doeskin Melange Georgette Cardigan",
+    "brandId": "000148",
+    "color": "673081",
+    "imageCovers": [
+      "https://www.melijoe.com/images/247936/card_medium.jpg",
+      "https://www.melijoe.com/images/247940/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/247936/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/247940/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["674079", "674080", "313681", "312909"],
+    "variants": [
+      {
+        "price": 45,
+        "discountPrice": 45,
+        "sizeId": "671993",
+        "_id": "61a262fcc99331f79a19043b"
+      },
+      {
+        "price": 45,
+        "discountPrice": 45,
+        "sizeId": "671060",
+        "_id": "61a262fcc99331f79a19043c"
+      },
+      {
+        "price": 45,
+        "discountPrice": 45,
+        "sizeId": "671032",
+        "_id": "61a262fcc99331f79a19043d"
+      },
+      {
+        "price": 45,
+        "discountPrice": 45,
+        "sizeId": "671009",
+        "_id": "61a262fcc99331f79a19043e"
+      }
+    ],
+    "slug": "doeskin-melange-georgette-cardigan",
+    "categoryPath": "/girl/clothing/cardigans;",
+    "price": 45,
+    "discountPrice": 45
+  },
+  {
+    "_id": "51002",
+    "name": "Beige Acelia Puffer Jacket",
+    "brandId": "000169",
+    "color": "673082",
+    "imageCovers": [
+      "https://www.melijoe.com/images/242433/card_medium.jpg",
+      "https://www.melijoe.com/images/246441/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/242433/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/246441/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/246443/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/246442/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["313797", "312885", "674079"],
+    "variants": [
+      {
+        "price": 715,
+        "discountPrice": 715,
+        "sizeId": "671057",
+        "_id": "61a262fcc99331f79a190464"
+      },
+      {
+        "price": 905,
+        "discountPrice": 905,
+        "sizeId": "671022",
+        "_id": "61a262fcc99331f79a190465"
+      },
+      {
+        "price": 905,
+        "discountPrice": 905,
+        "sizeId": "671078",
+        "_id": "61a262fcc99331f79a190466"
+      }
+    ],
+    "slug": "beige-acelia-puffer-jacket",
+    "categoryPath": "/girl/clothing/coats;",
+    "price": 715,
+    "discountPrice": 715
+  },
+  {
+    "_id": "76270",
+    "name": "Black Tricot Cardigan",
+    "brandId": "000169",
+    "color": "673082",
+    "imageCovers": [
+      "https://www.melijoe.com/images/222711/card_medium.jpg",
+      "https://www.melijoe.com/images/222712/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/222711/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/222712/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/233960/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["674079", "313681", "312909"],
+    "variants": [
+      {
+        "price": 425,
+        "discountPrice": 425,
+        "sizeId": "671012",
+        "_id": "61a262fcc99331f79a19043f"
+      },
+      {
+        "price": 535,
+        "discountPrice": 535,
+        "sizeId": "671022",
+        "_id": "61a262fcc99331f79a190440"
+      },
+      {
+        "price": 535,
+        "discountPrice": 535,
+        "sizeId": "671010",
+        "_id": "61a262fcc99331f79a190441"
+      },
+      {
+        "price": 535,
+        "discountPrice": 535,
+        "sizeId": "671005",
+        "_id": "61a262fcc99331f79a190442"
+      }
+    ],
+    "slug": "black-tricot-cardigan",
+    "categoryPath": "/girl/clothing/cardigans;",
+    "price": 425,
+    "discountPrice": 425
+  },
+  {
+    "_id": "45838",
+    "name": "Purple Night Gianna Cardigan",
+    "brandId": "000168",
+    "color": "673095",
+    "imageCovers": [
+      "https://www.melijoe.com/images/260305/card_medium.jpg",
+      "https://www.melijoe.com/images/260302/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/260305/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/260302/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/260312/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["674079", "313681", "312909"],
+    "variants": [
+      {
+        "price": 80,
+        "discountPrice": 80,
+        "sizeId": "671031",
+        "_id": "61a262fcc99331f79a190452"
+      },
+      {
+        "price": 80,
+        "discountPrice": 80,
+        "sizeId": "671022",
+        "_id": "61a262fcc99331f79a190453"
+      },
+      {
+        "price": 80,
+        "discountPrice": 80,
+        "sizeId": "671999",
+        "_id": "61a262fcc99331f79a190454"
+      },
+      {
+        "price": 80,
+        "discountPrice": 80,
+        "sizeId": "671010",
+        "_id": "61a262fcc99331f79a190455"
+      }
+    ],
+    "slug": "purple-night-gianna-cardigan",
+    "categoryPath": "/girl/clothing/cardigans;",
+    "price": 80,
+    "discountPrice": 80
+  },
+  {
+    "_id": "66390",
+    "name": "Winter Moss Maja Cardigan",
+    "brandId": "000212",
+    "color": "673091",
+    "imageCovers": [
+      "https://www.melijoe.com/images/261610/card_medium.jpg",
+      "https://www.melijoe.com/images/261614/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/261610/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/261614/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["674079", "313681", "312909"],
+    "variants": [
+      {
+        "price": 33,
+        "discountPrice": 33,
+        "sizeId": "671993",
+        "_id": "61a262fcc99331f79a190416"
+      },
+      {
+        "price": 33,
+        "discountPrice": 33,
+        "sizeId": "671060",
+        "_id": "61a262fcc99331f79a190417"
+      },
+      {
+        "price": 33,
+        "discountPrice": 33,
+        "sizeId": "671032",
+        "_id": "61a262fcc99331f79a190418"
+      },
+      {
+        "price": 33,
+        "discountPrice": 33,
+        "sizeId": "671009",
+        "_id": "61a262fcc99331f79a190419"
+      },
+      {
+        "price": 33,
+        "discountPrice": 33,
+        "sizeId": "671002",
+        "_id": "61a262fcc99331f79a19041a"
+      },
+      {
+        "price": 42,
+        "discountPrice": 42,
+        "sizeId": "671044",
+        "_id": "61a262fcc99331f79a19041b"
+      },
+      {
+        "price": 42,
+        "discountPrice": 42,
+        "sizeId": "671012",
+        "_id": "61a262fcc99331f79a19041c"
+      },
+      {
+        "price": 42,
+        "discountPrice": 42,
+        "sizeId": "671043",
+        "_id": "61a262fcc99331f79a19041d"
+      },
+      {
+        "price": 42,
+        "discountPrice": 42,
+        "sizeId": "671057",
+        "_id": "61a262fcc99331f79a19041e"
+      },
+      {
+        "price": 42,
+        "discountPrice": 42,
+        "sizeId": "671031",
+        "_id": "61a262fcc99331f79a19041f"
+      },
+      {
+        "price": 42,
+        "discountPrice": 42,
+        "sizeId": "671022",
+        "_id": "61a262fcc99331f79a190420"
+      }
+    ],
+    "slug": "winter-moss-maja-cardigan",
+    "categoryPath": "/girl/clothing/cardigans;",
+    "price": 33,
+    "discountPrice": 33
+  },
+  {
+    "_id": "60374",
+    "name": "Floral Sports Bag Black",
+    "brandId": "000145",
+    "color": "673082",
+    "imageCovers": [
+      "https://www.melijoe.com/images/251782/card_medium.jpg",
+      "https://www.melijoe.com/images/251783/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/251782/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/251783/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/251784/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["313826", "674079", "312884"],
+    "variants": [
+      {
+        "price": 73,
+        "discountPrice": 43.8,
+        "_id": "61a262fcc99331f79a190496"
+      }
+    ],
+    "slug": "floral-sports-bag-black",
+    "categoryPath": "/girl/accessories/bags;",
+    "price": 73,
+    "discountPrice": 43.8
+  },
+  {
+    "_id": "20906",
+    "name": "Pink Charpal Down Jacket",
+    "brandId": "000169",
+    "color": "673092",
+    "imageCovers": [
+      "https://www.melijoe.com/images/260754/card_medium.jpg",
+      "https://www.melijoe.com/images/260755/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/260754/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/260755/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/260756/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["313797", "312885", "674079"],
+    "variants": [
+      {
+        "price": 720,
+        "discountPrice": 720,
+        "sizeId": "671043",
+        "_id": "61a262fcc99331f79a19045d"
+      },
+      {
+        "price": 910,
+        "discountPrice": 910,
+        "sizeId": "671005",
+        "_id": "61a262fcc99331f79a19045e"
+      }
+    ],
+    "slug": "pink-charpal-down-jacket",
+    "categoryPath": "/girl/clothing/coats;",
+    "price": 720,
+    "discountPrice": 720
+  },
+  {
+    "_id": "69276",
+    "name": "Morel Grey Isabelle Padded Jacket",
+    "brandId": "000166",
+    "color": "673100",
+    "imageCovers": [
+      "https://www.melijoe.com/images/245908/card_medium.jpg",
+      "https://www.melijoe.com/images/245903/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/245908/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/245903/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/245909/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["313737", "312885", "674079"],
+    "variants": [
+      {
+        "price": 300,
+        "discountPrice": 225,
+        "sizeId": "671043",
+        "_id": "61a262fcc99331f79a19045f"
+      },
+      {
+        "price": 300,
+        "discountPrice": 225,
+        "sizeId": "671057",
+        "_id": "61a262fcc99331f79a190460"
+      },
+      {
+        "price": 300,
+        "discountPrice": 225,
+        "sizeId": "671031",
+        "_id": "61a262fcc99331f79a190461"
+      }
+    ],
+    "slug": "morel-grey-isabelle-padded-jacket",
+    "categoryPath": "/girl/clothing/coats;",
+    "price": 300,
+    "discountPrice": 225
+  },
+  {
+    "_id": "97286",
+    "name": "Gray Ice Skate Cardigan",
+    "brandId": "000146",
+    "color": "673100",
+    "imageCovers": [
+      "https://www.melijoe.com/images/227308/card_medium.jpg",
+      "https://www.melijoe.com/images/227312/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/227308/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/227312/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["674079", "313681", "312909"],
+    "variants": [
+      {
+        "price": 425,
+        "discountPrice": 425,
+        "sizeId": "671002",
+        "_id": "61a262fcc99331f79a190443"
+      },
+      {
+        "price": 535,
+        "discountPrice": 535,
+        "sizeId": "671044",
+        "_id": "61a262fcc99331f79a190444"
+      },
+      {
+        "price": 535,
+        "discountPrice": 535,
+        "sizeId": "671012",
+        "_id": "61a262fcc99331f79a190445"
+      },
+      {
+        "price": 535,
+        "discountPrice": 535,
+        "sizeId": "671043",
+        "_id": "61a262fcc99331f79a190446"
+      },
+      {
+        "price": 535,
+        "discountPrice": 535,
+        "sizeId": "671057",
+        "_id": "61a262fcc99331f79a190447"
+      }
+    ],
+    "slug": "gray-ice-skate-cardigan",
+    "categoryPath": "/girl/clothing/cardigans;",
+    "price": 425,
+    "discountPrice": 425
+  },
+  {
+    "_id": "14791",
+    "name": "Beige Cardigan",
+    "brandId": "000115",
+    "color": "673097",
+    "imageCovers": [
+      "https://www.melijoe.com/images/247149/card_medium.jpg",
+      "https://www.melijoe.com/images/247150/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/247149/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/247150/image_gallery_large.jpg"
+    ],
+    "isFeatured": true,
+    "filters": ["313681", "312909", "674079", "313723"],
+    "variants": [
+      {
+        "price": 295,
+        "discountPrice": 295,
+        "sizeId": "671012",
+        "_id": "61a262fcc99331f79a190406"
+      },
+      {
+        "price": 295,
+        "discountPrice": 295,
+        "sizeId": "671057",
+        "_id": "61a262fcc99331f79a190407"
+      },
+      {
+        "price": 305,
+        "discountPrice": 305,
+        "sizeId": "671022",
+        "_id": "61a262fcc99331f79a190408"
+      }
+    ],
+    "slug": "beige-cardigan",
+    "categoryPath": "/girl/clothing/cardigans;",
+    "price": 295,
+    "discountPrice": 295
+  },
+  {
+    "_id": "60489",
+    "name": "Fuchsia Cardigan",
+    "brandId": "000139",
+    "color": "673092",
+    "imageCovers": [
+      "https://www.melijoe.com/images/256821/card_medium.jpg",
+      "https://www.melijoe.com/images/256822/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/256821/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/256822/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["674079", "313681", "312909"],
+    "variants": [
+      {
+        "price": 88,
+        "discountPrice": 88,
+        "sizeId": "671069",
+        "_id": "61a262fcc99331f79a190434"
+      },
+      {
+        "price": 88,
+        "discountPrice": 88,
+        "sizeId": "671002",
+        "_id": "61a262fcc99331f79a190435"
+      },
+      {
+        "price": 97,
+        "discountPrice": 97,
+        "sizeId": "671044",
+        "_id": "61a262fcc99331f79a190436"
+      }
+    ],
+    "slug": "fuchsia-cardigan",
+    "categoryPath": "/girl/clothing/cardigans;",
+    "price": 88,
+    "discountPrice": 88
+  },
+  {
+    "_id": "27724",
+    "name": "Silver Unicorn Shoulder Bag",
+    "brandId": "000218",
+    "color": "673101",
+    "imageCovers": [
+      "https://www.melijoe.com/images/232468/card_medium.jpg",
+      "https://www.melijoe.com/images/232470/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/232468/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/232470/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/232473/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["313826", "674079", "312884"],
+    "variants": [
+      {
+        "price": 45,
+        "discountPrice": 45,
+        "_id": "61a262fcc99331f79a190494"
+      }
+    ],
+    "slug": "silver-unicorn-shoulder-bag",
+    "categoryPath": "/girl/accessories/bags;",
+    "price": 45,
+    "discountPrice": 45
+  },
+  {
+    "_id": "82242",
+    "name": "Black Fanny Pack",
+    "brandId": "000128",
+    "color": "673082",
+    "imageCovers": [
+      "https://www.melijoe.com/images/239686/card_medium.jpg",
+      "https://www.melijoe.com/images/239687/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/239686/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/239687/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/239688/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["313826", "674079", "674080", "312884"],
+    "variants": [
+      {
+        "price": 285,
+        "discountPrice": 285,
+        "_id": "61a262fcc99331f79a190493"
+      }
+    ],
+    "slug": "black-fanny-pack",
+    "categoryPath": "/girl/accessories/bags;",
+    "price": 285,
+    "discountPrice": 285
+  },
+  {
+    "_id": "98021",
+    "name": "Red Knit Cardigan",
+    "brandId": "000148",
+    "color": "673085",
+    "imageCovers": [
+      "https://www.melijoe.com/images/245102/card_medium.jpg",
+      "https://www.melijoe.com/images/245101/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/245102/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/245101/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["674079", "313681", "312909"],
+    "variants": [
+      {
+        "price": 67,
+        "discountPrice": 67,
+        "sizeId": "671993",
+        "_id": "61a262fcc99331f79a190437"
+      },
+      {
+        "price": 67,
+        "discountPrice": 67,
+        "sizeId": "671060",
+        "_id": "61a262fcc99331f79a190438"
+      },
+      {
+        "price": 67,
+        "discountPrice": 67,
+        "sizeId": "671032",
+        "_id": "61a262fcc99331f79a190439"
+      },
+      {
+        "price": 67,
+        "discountPrice": 67,
+        "sizeId": "671009",
+        "_id": "61a262fcc99331f79a19043a"
+      }
+    ],
+    "slug": "red-knit-cardigan",
+    "categoryPath": "/girl/clothing/cardigans;",
+    "price": 67,
+    "discountPrice": 67
+  },
+  {
+    "_id": "59975",
+    "name": "Black Hally Puffer Jacket",
+    "brandId": "000217",
+    "color": "673082",
+    "imageCovers": [
+      "https://www.melijoe.com/images/233971/card_medium.jpg",
+      "https://www.melijoe.com/images/233972/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/233971/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/233972/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/233973/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/233974/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["313797", "312885", "674079"],
+    "variants": [
+      {
+        "price": 263,
+        "discountPrice": 263,
+        "sizeId": "671022",
+        "_id": "61a262fcc99331f79a190462"
+      },
+      {
+        "price": 263,
+        "discountPrice": 263,
+        "sizeId": "671078",
+        "_id": "61a262fcc99331f79a190463"
+      }
+    ],
+    "slug": "black-hally-puffer-jacket",
+    "categoryPath": "/girl/clothing/coats;",
+    "price": 263,
+    "discountPrice": 263
+  },
+  {
+    "_id": "71723",
+    "name": "Beige Faux Fur Boots",
+    "brandId": "000163",
+    "color": "673097",
+    "imageCovers": [
+      "https://www.melijoe.com/images/259897/card_medium.jpg",
+      "https://www.melijoe.com/images/259896/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/259897/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/259896/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/259900/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/259895/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["312870", "313807", "674079"],
+    "variants": [
+      {
+        "price": 64,
+        "discountPrice": 64,
+        "sizeId": "672024",
+        "_id": "61a262fcc99331f79a190467"
+      },
+      {
+        "price": 64,
+        "discountPrice": 64,
+        "sizeId": "672016",
+        "_id": "61a262fcc99331f79a190468"
+      },
+      {
+        "price": 64,
+        "discountPrice": 64,
+        "sizeId": "672998",
+        "_id": "61a262fcc99331f79a190469"
+      },
+      {
+        "price": 64,
+        "discountPrice": 64,
+        "sizeId": "672068",
+        "_id": "61a262fcc99331f79a19046a"
+      },
+      {
+        "price": 64,
+        "discountPrice": 64,
+        "sizeId": "672064",
+        "_id": "61a262fcc99331f79a19046b"
+      },
+      {
+        "price": 64,
+        "discountPrice": 64,
+        "sizeId": "672004",
+        "_id": "61a262fcc99331f79a19046c"
+      },
+      {
+        "price": 715,
+        "discountPrice": 715,
+        "sizeId": "672050",
+        "_id": "61a262fcc99331f79a19046d"
+      }
+    ],
+    "slug": "beige-faux-fur-boots",
+    "categoryPath": "/girl/shoes/boots;",
+    "price": 64,
+    "discountPrice": 64
+  },
+  {
+    "_id": "48649",
+    "name": "Cream Graphic Colorblock Hoodie",
+    "brandId": "000205",
+    "color": "673088",
+    "imageCovers": [
+      "https://www.melijoe.com/images/224048/card_medium.jpg",
+      "https://www.melijoe.com/images/224079/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/224048/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/224079/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["674080", "313723", "313754", "312889", "312902"],
+    "variants": [
+      {
+        "price": 115,
+        "discountPrice": 115,
+        "sizeId": "671002",
+        "_id": "61a262fcc99331f79a1904a0"
+      },
+      {
+        "price": 129,
+        "discountPrice": 129,
+        "sizeId": "671010",
+        "_id": "61a262fcc99331f79a1904a1"
+      },
+      {
+        "price": 129,
+        "discountPrice": 129,
+        "sizeId": "671005",
+        "_id": "61a262fcc99331f79a1904a2"
+      },
+      {
+        "price": 139,
+        "discountPrice": 139,
+        "sizeId": "671078",
+        "_id": "61a262fcc99331f79a1904a3"
+      }
+    ],
+    "slug": "cream-graphic-colorblock-hoodie",
+    "categoryPath": "/boy/clothing/cardigans;",
+    "price": 115,
+    "discountPrice": 115
+  },
+  {
+    "_id": "37752",
+    "name": "Brown Trip Fringe Boots",
+    "brandId": "000190",
+    "color": "673081",
+    "imageCovers": [
+      "https://www.melijoe.com/images/252091/card_medium.jpg",
+      "https://www.melijoe.com/images/252092/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/252091/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/252092/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/252093/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/252094/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["312870", "313807", "674079"],
+    "variants": [
+      {
+        "price": 130.7,
+        "discountPrice": 130.7,
+        "sizeId": "672058",
+        "_id": "61a262fcc99331f79a190473"
+      },
+      {
+        "price": 130.7,
+        "discountPrice": 130.7,
+        "sizeId": "672039",
+        "_id": "61a262fcc99331f79a190474"
+      },
+      {
+        "price": 130.7,
+        "discountPrice": 130.7,
+        "sizeId": "672055",
+        "_id": "61a262fcc99331f79a190475"
+      },
+      {
+        "price": 141.7,
+        "discountPrice": 141.7,
+        "sizeId": "672023",
+        "_id": "61a262fcc99331f79a190476"
+      },
+      {
+        "price": 141.7,
+        "discountPrice": 141.7,
+        "sizeId": "672029",
+        "_id": "61a262fcc99331f79a190477"
+      },
+      {
+        "price": 141.7,
+        "discountPrice": 141.7,
+        "sizeId": "672074",
+        "_id": "61a262fcc99331f79a190478"
+      },
+      {
+        "price": 141.7,
+        "discountPrice": 141.7,
+        "sizeId": "672001",
+        "_id": "61a262fcc99331f79a190479"
+      },
+      {
+        "price": 157,
+        "discountPrice": 157,
+        "sizeId": "672034",
+        "_id": "61a262fcc99331f79a19047a"
+      },
+      {
+        "price": 157,
+        "discountPrice": 157,
+        "sizeId": "672015",
+        "_id": "61a262fcc99331f79a19047b"
+      },
+      {
+        "price": 157,
+        "discountPrice": 157,
+        "sizeId": "672065",
+        "_id": "61a262fcc99331f79a19047c"
+      },
+      {
+        "price": 157,
+        "discountPrice": 157,
+        "sizeId": "672077",
+        "_id": "61a262fcc99331f79a19047d"
+      }
+    ],
+    "slug": "brown-trip-fringe-boots",
+    "categoryPath": "/girl/shoes/boots;",
+    "price": 130.7,
+    "discountPrice": 130.7
+  },
+  {
+    "_id": "72835",
+    "name": "Red Logo Backpack",
+    "brandId": "000128",
+    "color": "673085",
+    "imageCovers": [
+      "https://www.melijoe.com/images/239689/card_medium.jpg",
+      "https://www.melijoe.com/images/239685/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/239689/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/239685/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/239684/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["313850", "313826", "674079", "674080", "312884"],
+    "variants": [
+      {
+        "price": 645,
+        "discountPrice": 645,
+        "_id": "61a262fcc99331f79a19048f"
+      }
+    ],
+    "slug": "red-logo-backpack",
+    "categoryPath": "/girl/accessories/backpacks;",
+    "price": 645,
+    "discountPrice": 645
+  },
+  {
+    "_id": "81475",
+    "name": "Rucksack Portedown",
+    "brandId": "000195",
+    "color": "673096",
+    "imageCovers": [
+      "https://www.melijoe.com/images/120380/card_medium.jpg",
+      "https://www.melijoe.com/images/120388/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/120380/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/120388/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/120382/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/120386/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["313850", "312884", "674080", "674079", "312884"],
+    "variants": [
+      {
+        "price": 89,
+        "discountPrice": 89,
+        "_id": "61a262fcc99331f79a19048d"
+      }
+    ],
+    "slug": "rucksack-portedown",
+    "categoryPath": "/girl/accessories/backpacks;",
+    "price": 89,
+    "discountPrice": 89
+  },
+  {
+    "_id": "91092",
+    "name": "Velvet Floral Big Backpack",
+    "brandId": "000168",
+    "color": "673095",
+    "imageCovers": [
+      "https://www.melijoe.com/images/229235/card_medium.jpg",
+      "https://www.melijoe.com/images/229237/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/229235/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/229237/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/229236/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["313850", "313826", "674079", "312884"],
+    "variants": [
+      {
+        "price": 60,
+        "discountPrice": 60,
+        "_id": "61a262fcc99331f79a190490"
+      }
+    ],
+    "slug": "velvet-floral-big-backpack",
+    "categoryPath": "/girl/accessories/backpacks;",
+    "price": 60,
+    "discountPrice": 60
+  },
+  {
+    "_id": "56067",
+    "name": "Pink Moon Boots",
+    "brandId": "000163",
+    "color": "673092",
+    "imageCovers": [
+      "https://www.melijoe.com/images/259901/card_medium.jpg",
+      "https://www.melijoe.com/images/259899/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/259901/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/259899/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/259898/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/259902/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["312870", "313807", "000163", "674079"],
+    "variants": [
+      {
+        "price": 74,
+        "discountPrice": 74,
+        "sizeId": "672051",
+        "_id": "61a262fcc99331f79a190488"
+      },
+      {
+        "price": 74,
+        "discountPrice": 74,
+        "sizeId": "672014",
+        "_id": "61a262fcc99331f79a190489"
+      },
+      {
+        "price": 74,
+        "discountPrice": 74,
+        "sizeId": "672055",
+        "_id": "61a262fcc99331f79a19048a"
+      },
+      {
+        "price": 74,
+        "discountPrice": 74,
+        "sizeId": "672029",
+        "_id": "61a262fcc99331f79a19048b"
+      },
+      {
+        "price": 74,
+        "discountPrice": 74,
+        "sizeId": "672034",
+        "_id": "61a262fcc99331f79a19048c"
+      }
+    ],
+    "slug": "pink-moon-boots",
+    "categoryPath": "/girl/shoes/boots;",
+    "price": 74,
+    "discountPrice": 74
+  },
+  {
+    "_id": "57798",
+    "name": "Cream Stella B79 Tennis Sneakers",
+    "brandId": "000112",
+    "color": "673088",
+    "imageCovers": [
+      "https://www.melijoe.com/images/210866/card_medium.jpg",
+      "https://www.melijoe.com/images/210867/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/210866/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/210867/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/210901/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/210868/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["312870", "313807", "674079", "674080"],
+    "variants": [
+      {
+        "price": 60,
+        "discountPrice": 36,
+        "sizeId": "672051",
+        "_id": "61a262fcc99331f79a19047e"
+      },
+      {
+        "price": 60,
+        "discountPrice": 36,
+        "sizeId": "672014",
+        "_id": "61a262fcc99331f79a19047f"
+      },
+      {
+        "price": 60,
+        "discountPrice": 36,
+        "sizeId": "672058",
+        "_id": "61a262fcc99331f79a190480"
+      },
+      {
+        "price": 60,
+        "discountPrice": 36,
+        "sizeId": "672039",
+        "_id": "61a262fcc99331f79a190481"
+      },
+      {
+        "price": 60,
+        "discountPrice": 36,
+        "sizeId": "672055",
+        "_id": "61a262fcc99331f79a190482"
+      },
+      {
+        "price": 60,
+        "discountPrice": 36,
+        "sizeId": "672023",
+        "_id": "61a262fcc99331f79a190483"
+      },
+      {
+        "price": 60,
+        "discountPrice": 36,
+        "sizeId": "672029",
+        "_id": "61a262fcc99331f79a190484"
+      },
+      {
+        "price": 60,
+        "discountPrice": 36,
+        "sizeId": "672074",
+        "_id": "61a262fcc99331f79a190485"
+      },
+      {
+        "price": 60,
+        "discountPrice": 36,
+        "sizeId": "672001",
+        "_id": "61a262fcc99331f79a190486"
+      },
+      {
+        "price": 60,
+        "discountPrice": 36,
+        "sizeId": "672034",
+        "_id": "61a262fcc99331f79a190487"
+      }
+    ],
+    "slug": "cream-stella-b79-tennis-sneakers",
+    "categoryPath": "/girl/shoes/boots;",
+    "price": 60,
+    "discountPrice": 36
+  },
+  {
+    "_id": "91565",
+    "name": "Navy Cheetah Sherpa Zip Sweater",
+    "brandId": "000205",
+    "color": "673082",
+    "imageCovers": [
+      "https://www.melijoe.com/images/223131/card_medium.jpg",
+      "https://www.melijoe.com/images/223133/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/223131/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/223133/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/223134/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["674080", "313723", "313681"],
+    "variants": [
+      {
+        "price": 155,
+        "discountPrice": 155,
+        "sizeId": "671002",
+        "_id": "61a262fcc99331f79a190497"
+      },
+      {
+        "price": 155,
+        "discountPrice": 155,
+        "sizeId": "671044",
+        "_id": "61a262fcc99331f79a190498"
+      },
+      {
+        "price": 155,
+        "discountPrice": 155,
+        "sizeId": "671012",
+        "_id": "61a262fcc99331f79a190499"
+      },
+      {
+        "price": 155,
+        "discountPrice": 155,
+        "sizeId": "671043",
+        "_id": "61a262fcc99331f79a19049a"
+      },
+      {
+        "price": 169,
+        "discountPrice": 169,
+        "sizeId": "671057",
+        "_id": "61a262fcc99331f79a19049b"
+      },
+      {
+        "price": 169,
+        "discountPrice": 169,
+        "sizeId": "671031",
+        "_id": "61a262fcc99331f79a19049c"
+      },
+      {
+        "price": 169,
+        "discountPrice": 169,
+        "sizeId": "671022",
+        "_id": "61a262fcc99331f79a19049d"
+      },
+      {
+        "price": 169,
+        "discountPrice": 169,
+        "sizeId": "671999",
+        "_id": "61a262fcc99331f79a19049e"
+      },
+      {
+        "price": 169,
+        "discountPrice": 169,
+        "sizeId": "671010",
+        "_id": "61a262fcc99331f79a19049f"
+      }
+    ],
+    "slug": "navy-cheetah-sherpa-zip-sweater",
+    "categoryPath": "/boy/clothing/cardigans;",
+    "price": 155,
+    "discountPrice": 155
+  },
+  {
+    "_id": "53344",
+    "name": "Black Biba Bag",
+    "brandId": "000217",
+    "color": "673082",
+    "imageCovers": [
+      "https://www.melijoe.com/images/234111/card_medium.jpg",
+      "https://www.melijoe.com/images/234101/card_medium.jpg"
+    ],
+    "images": [
+      "https://www.melijoe.com/images/234111/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/234101/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/234112/image_gallery_large.jpg",
+      "https://www.melijoe.com/images/234100/image_gallery_large.jpg"
+    ],
+    "isFeatured": false,
+    "filters": ["313826", "674079", "312884"],
+    "variants": [
+      {
+        "price": 126,
+        "discountPrice": 126,
+        "_id": "61a262fcc99331f79a190495"
+      }
+    ],
+    "slug": "black-biba-bag",
+    "categoryPath": "/girl/accessories/bags;",
+    "price": 126,
+    "discountPrice": 126
+  }
+]

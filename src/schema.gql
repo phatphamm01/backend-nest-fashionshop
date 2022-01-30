@@ -1,0 +1,150 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type AllFilter {
+  brand: IValue!
+  categories: IValue!
+  color: IValue!
+  genders: IValue!
+  products: IValue!
+  shoeSizes: IValue!
+}
+
+type Brand {
+  _id: String!
+  name: String!
+}
+
+type Category {
+  _id: String!
+  children: [Category]!
+  level: Int!
+  root: Category
+  title: String!
+}
+
+type Color {
+  _id: String!
+  name: String!
+}
+
+input CreateCategoryInput {
+  children: [ID]
+  level: Int!
+  root: ID
+  title: String!
+}
+
+input CreateProductInput {
+  """Example field (placeholder)"""
+  exampleField: Int!
+}
+
+type Filter {
+  _id: String!
+  children: [Filter]!
+  name: String!
+  type: String!
+}
+
+input FilterCategoryInput {
+  level: Int
+  root: ID
+}
+
+type IData {
+  _id: String!
+  name: String!
+}
+
+type IValue {
+  data: [IData!]!
+  name: String!
+}
+
+input LoginInput {
+  email: String!
+  password: String!
+}
+
+type Mutation {
+  createCategory(createCategoryInput: CreateCategoryInput!): Category!
+  createProduct(createProductInput: CreateProductInput!): Product!
+  login(loginInput: LoginInput!): User!
+  register(registerInput: RegisterInput!): UserToken!
+  removeCategory(id: Int!): Category!
+  removeProduct(id: Int!): Product!
+  updateCategory(updateCategoryInput: UpdateCategoryInput!): Category!
+  updateProduct(updateProductInput: UpdateProductInput!): Product!
+}
+
+type Product {
+  _id: String!
+  brand: Brand!
+  color: Color!
+  filters: [Filter!]!
+  imageCovers: [String!]!
+  images: [String!]!
+  isFeatured: Boolean!
+  name: String!
+  variants: [Variant!]!
+}
+
+type Query {
+  getAllBrand: [Brand!]!
+  getAllCategories(filterCategoryInput: FilterCategoryInput): [Category!]!
+  getAllColor: [Color!]!
+  getAllFilter: [Filter!]!
+  getAllFiltersOfProducts: AllFilter!
+  getAllProducts: [Product!]!
+  getAllSize: [Size!]!
+  getCategoryById(id: String!): Category!
+  product(id: Int!): Product!
+}
+
+input RegisterInput {
+  email: String!
+  firstName: String!
+  lastName: String!
+  phone: String!
+}
+
+type Size {
+  _id: String!
+  name: String!
+}
+
+input UpdateCategoryInput {
+  children: [ID!]
+  id: Int!
+  level: Int
+  root: ID
+  title: String
+}
+
+input UpdateProductInput {
+  """Example field (placeholder)"""
+  exampleField: Int
+  id: Int!
+}
+
+type User {
+  _id: ID!
+  email: String!
+  firstName: String!
+  lastName: String!
+  phone: String!
+}
+
+type UserToken {
+  token: String!
+  user: User!
+}
+
+type Variant {
+  _id: String!
+  discountPrice: Float!
+  price: Float!
+  sizeId: Size!
+}
